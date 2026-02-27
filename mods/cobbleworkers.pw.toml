@@ -1,0 +1,13 @@
+name = "Cobbleworkers"
+filename = "cobbleworkers-fabric-1.8.0+1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "769a3ce5096d994ca2cfe9205cb8de7ba735a78910c84a74ab9ee772fd03f112880342d6282cf79ac2eb0c42f3ef062805bb94320f417c61b014c90501bb2849"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7586426
+project-id = 1296055

@@ -45,6 +45,11 @@ hash = "5cdc5287bd9b90d0838285a5be293ef46f93058e356821c0c8ee1354e160387e"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "66d6af01197c4e7ac6caf7bdba1734b2e90fe8c48b842100f3d9a468722cc970"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c71a57581893de5538e21bc2b2b1946ff2e1f8d6f6f3ab558556dcf813b84ba7"
 metafile = true
@@ -155,6 +160,11 @@ hash = "d65c20b4b5001b05bc098736e5356939d9a035fa4414c8b5a87f28e1f80552b6"
 metafile = true
 
 [[files]]
+file = "mods/cobbleworkers.pw.toml"
+hash = "e3edde473e74ece4397b798b64496e2ac501fe3d2b8d61674bb9aab2d87c06f8"
+metafile = true
+
+[[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
 metafile = true
@@ -217,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-permissions-api.pw.toml"
 hash = "4f7bf8d60ef81f12471455f634bde52cc5a8c845250845b4519ad44ea46e61a6"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "111f2628b606d7ebc431d64c71aecd2c1cc710de41e427902a924ed72755682a"
 metafile = true
 
 [[files]]
