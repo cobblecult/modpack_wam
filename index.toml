@@ -175,6 +175,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "d23646fa8f8403fc2b0c599320b0709a1919e9c3a0e7b15b0bc1c6982a03a8f9"
+metafile = true
+
+[[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "6a89cf951df2610ceaf07877657de5ae63bf3bc67cc94f5d802c9cc78114fbf9"
 metafile = true
