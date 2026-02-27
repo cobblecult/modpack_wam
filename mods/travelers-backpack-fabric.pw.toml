@@ -3,8 +3,8 @@ filename = "travelersbackpack-fabric-1.21.1-10.1.33.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "91367febf2ac405801e9f4730be6f544cc061dc2"
+hash-format = "sha512"
+hash = "0c08b5e9e7dec2d4e5d05f3376ab837a3440fe0695fa2eef2907cf6f8685dcf1225dfba51de274876a4146cf9b9086920ac453221e9846f2902ea7a2d6ac56b2"
 mode = "metadata:curseforge"
 
 [update]

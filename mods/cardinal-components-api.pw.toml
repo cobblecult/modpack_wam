@@ -3,8 +3,8 @@ filename = "cardinal-components-api-6.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e762f5205c0fd0f9bed1c04432bf9b51ec832882"
+hash-format = "sha512"
+hash = "db52fc8c4f14dda723b69eec5a52a693fcb1db72e97114cb530ac8a306d95c13a4234ea54bc6e632134038cb05ba551b5240b9187562fb775a4c7bacb681eff1"
 mode = "metadata:curseforge"
 
 [update]

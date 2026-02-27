@@ -3,8 +3,8 @@ filename = "cobblemonboss-fabric-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "810e885e1a624662131fff9abd873ce70878db41"
+hash-format = "sha512"
+hash = "234afc58c514f7227f4068cc0fa9ea400521557af025539df728b8e2f60e410f3d301aa68fa777527a454eb173be83ffc83054e435c14c81a7f24c6e8eab020a"
 mode = "metadata:curseforge"
 
 [update]

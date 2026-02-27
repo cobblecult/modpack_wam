@@ -3,8 +3,8 @@ filename = "flan-1.21.1-1.12.5-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "16c7bf82b6ddff97bc1a7023155997b537f98c0b"
+hash-format = "sha512"
+hash = "21eeae558346172f02c4569c39e73713305e637555f163cf875f3cb84ee4688cb0a2d92cc9c767c96c70405f7b788911bc55f42f44eedae57f84b04d16129052"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "jei-1.21.1-fabric-19.27.0.340.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7a7d5546db421639cd89b7807e9bb6def176cf89"
+hash-format = "sha512"
+hash = "04d4067931010578b55aee55b1e38f7ea2ea3ce8d258ae5d9ece7facfcfcb41349a457ca8bd2ca502577616b84b1c14dbd00b2985ffc6cde5c3d1ec2dd214a04"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "xaerominimap-fabric-1.21.1-25.3.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a231fa03625036fb8118a1a5981f22eac54c3597"
+hash-format = "sha512"
+hash = "2cabff39e66fdbe0b7ba514573bc743c40bc827d6edecbe59941cfb693f105340d11226fe06b5f5fff95fc8d63f42445d92d0f31eb34ffde540422271ceb823e"
 mode = "metadata:curseforge"
 
 [update]

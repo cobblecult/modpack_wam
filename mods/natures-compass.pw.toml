@@ -3,8 +3,8 @@ filename = "NaturesCompass-1.21.1-2.2.7-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c705431dd94ae496fb527a4c36855c86fd8ef987"
+hash-format = "sha512"
+hash = "95e686f2b4d13c8d2e00ce24ef32075900aaacf38b2b6af676e92ef8936ea39b95146fea05321029a73a3322ba685361afbe7bbe6667143bf27fead0c5d54f8c"
 mode = "metadata:curseforge"
 
 [update]
