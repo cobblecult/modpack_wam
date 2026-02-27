@@ -1,0 +1,13 @@
+name = "Cobblemon Battle Extras"
+filename = "cobblemon-battle-extras-fabric-1.8.30.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/fKymUVhN/cobblemon-battle-extras-fabric-1.8.30.jar"
+hash-format = "sha512"
+hash = "855da7f36767bfcd1915311cbb34b28917f68fb29bd38d260e413fe90f688e2ebc6ed271c1b1a2a59e18fc6868e75f065f0ae201dafe6ce9a8edde15fbda59e6"
+
+[update]
+[update.modrinth]
+mod-id = "2iY8VFqL"
+version = "fKymUVhN"

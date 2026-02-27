@@ -1,0 +1,13 @@
+name = "CobblemonBoss"
+filename = "cobblemonboss-fabric-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "810e885e1a624662131fff9abd873ce70878db41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7481976
+project-id = 1383944

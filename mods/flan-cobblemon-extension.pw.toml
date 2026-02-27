@@ -1,0 +1,13 @@
+name = "Flan Cobblemon Extension"
+filename = "flan-cobblemon-extension-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/48x8AXBG/versions/ieelnNSZ/flan-cobblemon-extension-1.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "75ef9704f587e1a1615b20ecd7728d9d78dfc7094fdf6377cccda1495fb80828e52cdacd37ca8bd6617172580e02e95fc89a9b5ca8f7881e48074aa2619c2bef"
+
+[update]
+[update.modrinth]
+mod-id = "48x8AXBG"
+version = "ieelnNSZ"
