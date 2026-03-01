@@ -1,13 +1,14 @@
 name = "Cobblemon Firework Capsules"
-filename = "fireworkcapsules-fabric-2.1.1+1.21.1.jar"
+filename = "fireworkcapsules-fabric-2.1.0+1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/zBOfzARU/versions/oka2U4ZD/fireworkcapsules-fabric-2.1.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/zBOfzARU/versions/HMbMSSRY/fireworkcapsules-fabric-2.1.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "0af62cb06ccdf2d838f054303389d6496cfef23151ff61ff981445b7c52502e7699514898fb91c7ac48b157aaf66fdf75855cda1366b0f22d8814a3230fd5c38"
+hash = "9b5a4486d2107c8badb7b0693b0272dbdc2eb9042aaf5c79542eb0f7e14aab93502a77aded0b858b4461673f2995c41efa9b1561592d022123b3f35e0af3bef7"
 
 [update]
 [update.modrinth]
 mod-id = "zBOfzARU"
-version = "oka2U4ZD"
+version = "HMbMSSRY"

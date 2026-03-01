@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "b4c91be6e9a39270e4befd5feac995faa644c2b44f583a6a97b62032eb2e9599"
+hash = "bdac1f7ef9b319340ceeffedd999e9f3f5429ab2b54f55cb0c2e819c1a057ff0"
 metafile = true
 
 [[files]]
@@ -70,6 +70,11 @@ hash = "e4017e270ceacfe8dff8cdba6a657b903c002133a3bc88e8dbd54c6f55812b16"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-additions.pw.toml"
+hash = "ade2bd4db7d5a79135cc492d72dbe72e21af5d704dfb88e6dc7622b684da31dd"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-badgebox.pw.toml"
 hash = "dbcd6c1d82ef54574a85b8aa7a74d91cfbeca90830706346d2e1ee5bf2b9c86f"
 metafile = true
@@ -91,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-firework-capsules.pw.toml"
-hash = "1756d1bb2526fe7837c6f0ac6971b8d1751e745fb3f1a87744bfb21ab8d791f3"
+hash = "fe338093592bfe1cdf73db0e11a8dab0ad3673280aa85b98437a5ec2d94fb5c8"
 metafile = true
 
 [[files]]
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemonextras.pw.toml"
 hash = "7ba736c8ac146c4e0cfaa2a96ff5e4e014b2d3a361b48394cd39a76cf3a515a4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonoptimizer.pw.toml"
+hash = "e9d01abaab5edc66ffdd731b00a95563925c415a707e5b5ee611ab0ef152cd59"
 metafile = true
 
 [[files]]
@@ -280,6 +290,11 @@ hash = "cd8e6d4a28f826e87afebd58b93338f9411fcfd3cc8dbb532b961e6060a084cd"
 metafile = true
 
 [[files]]
+file = "mods/icommon.pw.toml"
+hash = "44ecb5c09a3810f6c605f4e403e3c42c0ee40da91ccd3748d9a02fee746f6ce3"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "2baa05930efe0e1c18f25f33aa079e39878bdf0930fc1fcb4e0c628b4f42e7c2"
 metafile = true
@@ -340,6 +355,11 @@ hash = "c9cc1728ca3d16e37afe3db4a65e63cdcf90d759ae36e633cb0ebf18ee47c336"
 metafile = true
 
 [[files]]
+file = "mods/multiworld.pw.toml"
+hash = "4d60813e8db9261205387f5c8cb96d0b372d3bbe78159369abbddab24f4b8788"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "ef64b5ce621de05f79ea518bc6de198f420b0c925c012c0864611cb162019c47"
 metafile = true
@@ -357,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/pokeblocks.pw.toml"
 hash = "2776d6c14fbfbc55183ad6953596ae8e3cf35816813bf8d9cde663044d5c6121"
+metafile = true
+
+[[files]]
+file = "mods/poketwo.pw.toml"
+hash = "fdddaf2da0be076a7a0377b570dadf9b55a5c41c9da846db102d22c2d2abd247"
 metafile = true
 
 [[files]]
@@ -442,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "9076b9435e266e1f2358ac977a30db81446391ea1dc7e49a8b70a1efb7f993e9"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
