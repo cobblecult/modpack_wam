@@ -340,6 +340,11 @@ hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "4842a349ba8e18407a4e32ef184ad1d2a437ff8e5b0c158391b6225216b4b8ce"
+metafile = true
+
+[[files]]
 file = "mods/mighty-mail.pw.toml"
 hash = "56b37fb71781d82b8c026273b7d2e0524ed2cdd7d659bb6e67118d64680eb4ef"
 metafile = true
