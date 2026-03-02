@@ -385,11 +385,6 @@ hash = "2776d6c14fbfbc55183ad6953596ae8e3cf35816813bf8d9cde663044d5c6121"
 metafile = true
 
 [[files]]
-file = "mods/poketwo.pw.toml"
-hash = "fdddaf2da0be076a7a0377b570dadf9b55a5c41c9da846db102d22c2d2abd247"
-metafile = true
-
-[[files]]
 file = "mods/polymer.pw.toml"
 hash = "98da190eb33a9f81e8f135e755b3c2dea15de442ae29a4959976812a8d880fed"
 metafile = true
@@ -508,6 +503,10 @@ hash = "51b61e4b82f144fc22055fe64c915d0b154f11874ac320e40fa097748b5cedb0"
 [[files]]
 file = "resourcepacks/B_Complete Galar Fossilmon [1.3].zip"
 hash = "a63edba47ca0dcdf24145d1b62f2d3a1cc563c8bfabe7b8d285abbd3e356284c"
+
+[[files]]
+file = "resourcepacks/B_Lost Lore [v1.8].zip"
+hash = "a5c4a436838d59183fa67e74ad3e0b47549ba3cdd50f8dbcf529672faaa149a1"
 
 [[files]]
 file = "resourcepacks/B_MysticMons x Mega Showdown.zip"
