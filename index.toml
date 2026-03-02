@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "bdac1f7ef9b319340ceeffedd999e9f3f5429ab2b54f55cb0c2e819c1a057ff0"
+hash = "81fbe4ba39c4f08afb1401e6cc900ccc95bbd7c48835a9cc4998421c4decb292"
 metafile = true
 
 [[files]]
@@ -140,8 +140,8 @@ hash = "d4209af3e46ad2c248598c3d09e00325752f05464d43a57b1178669efafb2670"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-utility+.pw.toml"
-hash = "918ba57f88361c9915e487bef4bdb0608f82e996441820c1c153ad179934c7ad"
+file = "mods/cobblemon-utility-ivs-evs-more-no-recipes.pw.toml"
+hash = "f9acdb4fa6f95f7afdb0831b1f7bc66bdee57dbd262f6ca468015555eb144881"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cobblemon Utility+ (IVs, EVs, & More) NO RECIPES"
+filename = "Cobblemon-Utility+-fabric-1.7.3-norecipes.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "dfd343e799d8e3235be2dcf08b5421e37a682c4a300c7f7c109921ab060a82fc84b96bb2c40215d4d984feffa7bc8f435f982a312e09ecdab71d1dedde49e2ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7602030
+project-id = 1265724
