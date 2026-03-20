@@ -1,13 +1,13 @@
 name = "Navas ZA Megas"
-filename = "zamega-fabric-1.5.4.jar"
+filename = "zamega-fabric-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/vVdlKcht/zamega-fabric-1.5.4.jar"
+url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/vAdP53D6/zamega-fabric-1.6.1.jar"
 hash-format = "sha512"
-hash = "876b9159205fb62427372d8aafcaf050c17a47b47a4b89b49a8a9d36ebaba0a3e803c6a33553be4687bde6015fc60e0f8e4f9fa66b3c240ad38d8bc83baf4a02"
+hash = "dbc7317e0e7e17d0509874739ff9bda1f1a98559b1af34d9f8154b42452874314c6a55c75b56bb36bb8ea1a77674a1787d45a83bb1d8d017b7729129e9e737fb"
 
 [update]
 [update.modrinth]
 mod-id = "2V1Y86sc"
-version = "vVdlKcht"
+version = "vAdP53D6"
