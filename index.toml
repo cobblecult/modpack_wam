@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonboss.pw.toml"
-hash = "91b99da880b295ed07a2d4191b70e5770ee4c7663fafc18ae1903e0d57d39e8f"
+hash = "92d79318a0178ad9fa9e5387bd9d8b3b96dd14bef5beda738eec0d3729a8255b"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4405bfe1f84a34b68b8236e71461bbbef6245faa747e2b11f7bba1fc2970ec31"
+hash = "2cf3b52b061f341ef888b63f4d1920d8b34b623fa7eb07b27eaed523c7e7cda2"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "15cd1f49cc0e8d333911fb2b15ddc8d3614fedaa49a78c62db31549d4e5936af"
+hash = "5f3061b133dde56006f8c9af3ab7d48b44f31ffef8ed8225dcd5a02c34cc9bd5"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ hash = "17bf778431e5c1c0aeea0ee4ae8ca3f4570e6228cc50dfd927d9ea4f5c7fc297"
 
 [[files]]
 file = "resourcepacks/Z_E19 CobbleCult Minimap Icons [1.4.4].zip"
-hash = "8ca2ad0564a2d3f2e98773621e6edea2c42569cfdecd648da22c16c3797d1b84"
+hash = "27e8713c0f3d5a4c566cd2a931df6b760b34a0da572b69988170a53501b68f48"
 
 [[files]]
 file = "resourcepacks/emissive-ores-normal-v1.1.3.zip"

@@ -3,8 +3,8 @@ filename = "waystones-fabric-1.21.1-21.1.29.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9ae94d51eec23d3b725a5f211d7e08800cf8a86d"
+hash-format = "sha512"
+hash = "e16c5b388902761bc56c4253ef2a923508ecf8c69cff2a18a93cd658e5cc51e00a1b86bec9d7578859f2aa7a750ba3a83460a3db5ec5b05dac3feeed2466f854"
 mode = "metadata:curseforge"
 
 [update]
