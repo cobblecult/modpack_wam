@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "ae0691f78554a4c8a92900d525d995d3c2efd1b366f593ea5635ed8013703f46"
+hash = "ddff9a1a4b1c2cdda615a0fd48d2e01f19161233572be76265e55322e19b89ac"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonboss.pw.toml"
-hash = "92d79318a0178ad9fa9e5387bd9d8b3b96dd14bef5beda738eec0d3729a8255b"
+hash = "dcd502fcaa0823de33db5a617ba2b7d9a7e63cdc39f69d728abd17b573f141c7"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonoptimizer.pw.toml"
-hash = "2518dd7958937692cdadf11c4f91a4d82d44cd25f6f9343001f4414b48e40aec"
+hash = "bb9643c1c396d84c407d238a3f6fbd0a5c911dffc1f2473ad6755c1c704901ee"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "2cf3b52b061f341ef888b63f4d1920d8b34b623fa7eb07b27eaed523c7e7cda2"
+hash = "1897eaf1e5aa925a8d556f4b9c4e70f8b291715eca7a5129425ba4a2fce508a5"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "917affe7e27c3408aa5bf5b255c5222973fd1823cb9c733169109c7a861c48f8"
+hash = "64ec6ea1812cff62dc93b223c96efe715af558d68ac808a247fb261f7d5bf405"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c9cc1728ca3d16e37afe3db4a65e63cdcf90d759ae36e633cb0ebf18ee47c336"
+hash = "52b7afe1f479f304e2d4f855ea7efffe414668dc343912c5eb49da7e2c31f887"
 metafile = true
 
 [[files]]
