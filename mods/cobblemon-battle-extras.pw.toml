@@ -1,13 +1,13 @@
 name = "Cobblemon Battle Extras"
-filename = "cobblemon-battle-extras-fabric-1.11.37.jar"
+filename = "cobblemon-battle-extras-fabric-1.12.41.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/ZQlCJzjh/cobblemon-battle-extras-fabric-1.11.37.jar"
+url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/BBOCqBbU/cobblemon-battle-extras-fabric-1.12.41.jar"
 hash-format = "sha512"
-hash = "790197a2e37815450cf921320e2e7a909f1863f39ef114735d64a7e0303140725e4ccccb6c3db29911ff5ba3c3b73c6466874500d2ffc3248da129df2e4ad894"
+hash = "8cb3dea6ea73c1ce9a7c6a0ebf0e788c7a0ba319c3932bfcb9443e57194cccd8f55f7570d6f78b6a5fc14965d18e856210aae2e7b58b2cdd3ba1dabac99fcb48"
 
 [update]
 [update.modrinth]
 mod-id = "2iY8VFqL"
-version = "ZQlCJzjh"
+version = "BBOCqBbU"
