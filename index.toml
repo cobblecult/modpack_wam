@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "73421873c0a33679ee4e0959fb7b4d4c61cf333b23e1cb68c726150fdc167ef1"
+hash = "dcff4edff3f1640641f9a5f17d17d1328565f9088e97f03773aa6bf8c54a8eb0"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b75e08bb2f806d7daf197b3e704b0dedbce5806c261cc7627d9f9866550430c7"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
