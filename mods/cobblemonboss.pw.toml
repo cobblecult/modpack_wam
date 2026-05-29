@@ -1,13 +1,13 @@
-name = "Cobblemon Boss"
-filename = "cobblemonboss-5.0.0-fabric.jar"
+name = "CobbleBoss"
+filename = "cobbleboss-6.0.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2d02b88c656c7f006b196c76d9df962f624dd5212621e9a03b38bfc186e0c7a34c12d2b77b24e311e6a7b76fb6eeae1439f50a72a97678ef9341643d6f30fdb7"
+hash-format = "sha1"
+hash = "539166326fc5083b6a1e5546680b616bf6c7d3e0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7792544
+file-id = 8136839
 project-id = 1383944

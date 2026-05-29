@@ -1,13 +1,13 @@
 name = "Cobblemon: Mega Showdown"
-filename = "mega_showdown-fabric-1.7.3+1.7.3+1.21.1.jar"
+filename = "mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SszvX85I/versions/axeGdnDm/mega_showdown-fabric-1.7.3%2B1.7.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/SszvX85I/versions/Y6di9Ram/mega_showdown-fabric-1.8.4%2B1.7.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "be9b350258f5cffdab6bef1388ca2546b6c1aa05fc4fff730eb0121f67f28e4a2aa662b5c9150840a7b0f63c34cc7aedffb636c6005d3060c91662749f0198f2"
+hash = "e378edfb6545b2ca28c7e82b1a63b4576de079e2536428467d7323bda4a6543dbaedd190b212fbcfa76b0af5604928d001fa8f4fcc6d278f3ac811dee6d5b03f"
 
 [update]
 [update.modrinth]
 mod-id = "SszvX85I"
-version = "axeGdnDm"
+version = "Y6di9Ram"

@@ -1,13 +1,13 @@
 name = "Building Wands"
-filename = "BuildingWands-fabric-MC1.21.1-3.0.2.jar"
+filename = "BuildingWands-fabric-MC1.21.1-3.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "638a10b685255c283cebec645c9fee0cbf079828d2057aff4f53797d95c9500b6e4c1b0c780901281348dc527b27f6cb00e13e7f5eeabce53e97a07c51422cb5"
+hash-format = "sha1"
+hash = "0d71e30105b278d826139abe226e486bf2d86f92"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7696859
+file-id = 7892747
 project-id = 363392

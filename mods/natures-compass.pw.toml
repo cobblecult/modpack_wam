@@ -1,13 +1,13 @@
 name = "Nature's Compass"
-filename = "NaturesCompass-1.21.1-2.2.7-fabric.jar"
+filename = "NaturesCompass-1.21.1-2.6.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "95e686f2b4d13c8d2e00ce24ef32075900aaacf38b2b6af676e92ef8936ea39b95146fea05321029a73a3322ba685361afbe7bbe6667143bf27fead0c5d54f8c"
+hash-format = "sha1"
+hash = "15bb7a4f27eaa13b755edac496c1c9d502843827"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5756913
+file-id = 7892952
 project-id = 252848

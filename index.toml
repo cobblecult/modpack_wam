@@ -26,12 +26,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
+hash = "a7f7974f0526516e8c8e24fecf1544ce1e9017daf95540cf6b3a817c9eb352b4"
 metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "81fbe4ba39c4f08afb1401e6cc900ccc95bbd7c48835a9cc4998421c4decb292"
+hash = "c6e47c4a18253fc3cf5eedfecdff3c3a821eb5571a8e6619b986f29b10f048c6"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
-hash = "e4017e270ceacfe8dff8cdba6a657b903c002133a3bc88e8dbd54c6f55812b16"
+hash = "43c4255087127f6707010f05b378f53e1eb20f2eaf0434cdda0438b1a1543265"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "9fc3676df4bfa085db58bc0e43325c574b5411b203fc58df25dea7e729180c4b"
+hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "fccff947850df79553747df0ca6b02a63aac609b5132ce4b3fa120eab471b132"
+hash = "dac3735111150e6dee94f69b03ccf6c8f65e2c975421c4f730d9afc70a3f4154"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-party-extras.pw.toml"
-hash = "ec93ced1345b05eb5c14e4b685a4f37b48c0f43210d5ba31702dbc23927cd379"
+hash = "e9f2b8b147dd42077d1c4dea2e2c8903769e01a35554fa2f1f03c5a5c42843f2"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "edd0ca1b9a516e810b8c24373545fb37fc2e540d071c5e7dde77193e3d23532d"
+hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "d4209af3e46ad2c248598c3d09e00325752f05464d43a57b1178669efafb2670"
+hash = "73421873c0a33679ee4e0959fb7b4d4c61cf333b23e1cb68c726150fdc167ef1"
 metafile = true
 
 [[files]]
@@ -146,8 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonboss.pw.toml"
-hash = "dcd502fcaa0823de33db5a617ba2b7d9a7e63cdc39f69d728abd17b573f141c7"
+hash = "5d181119a63e6f80d99cb294d1135b598a30b0363ac70f746e55568ea3e76d4b"
 metafile = true
+
+[[files]]
+file = "mods/cobblemoncinematiccombat-fabric-1.0.0-beta.1.jar"
+hash = "4fdc4cb9322fb58e845d682042902e28376ae1eb96cb504926044d76703c1af9"
 
 [[files]]
 file = "mods/cobblemonextras.pw.toml"
@@ -156,17 +160,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonoptimizer.pw.toml"
-hash = "2b068ba3d7a06e7d04236c455f7a7ba4ba7f700f315de9aec3aac107e7abf419"
+hash = "1aa3ebadab4b0e4b11dc3b20a94ebdde05dd60e60767926f3ca9ef6190d69c31"
 metafile = true
 
 [[files]]
 file = "mods/cobblespawners.pw.toml"
-hash = "927c8035610a7420f71568d15e171ac52193642767c1b116902f590d384c24ac"
+hash = "8a90be42e6f30827942b3aaa9632c4a3f0f262194ad56389227ac57a9c2edf0e"
 metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "e3edde473e74ece4397b798b64496e2ac501fe3d2b8d61674bb9aab2d87c06f8"
+hash = "b31ca40b432dec8b7bbb2783adf0fb7f482903bf3893f5d55ccc1caf1f978084"
 metafile = true
 
 [[files]]
@@ -196,12 +200,12 @@ metafile = true
 
 [[files]]
 file = "mods/e-utils.pw.toml"
-hash = "0477f41e688eb95d6106b4df2c4fd433023d0b36d1ee6aed1a4e885cb2d26716"
+hash = "b031ffaf7b7449896536e8e33d5b725a74ce712585ad8d33382e6bb6eaf4e36f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "63df182532913eea2627f6486a7ea292f55ddf27dba55a4bc25911f32d30dce5"
+hash = "38d70a352d8c52e8466a190867926c7f6f44776bd9b193ce64e3a3afec513014"
 metafile = true
 
 [[files]]
@@ -211,17 +215,17 @@ metafile = true
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
-hash = "9642962bbcc8bfd0fc299df9858ba7e9ff8d25a6d69a6df976577d9cb219f442"
+hash = "def0429c61fc8e6b8f4cc3a8f61d491c99b7682d34be008f213659e0982a74db"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a42d6d03c6764f037181b023e0b4e3c5574fdda5f9b837d1ca753dfa4180e1d5"
+hash = "8b055e1997973e615d20848f0c7d0712ebad4aa24ab8a3ee6d9682ea53642309"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -256,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan.pw.toml"
-hash = "8c7023170f349c3bee0bb15197d280158d7990a3adffcbf0eb766f2c0f257fc5"
+hash = "640fa247c2253c2993ee60729ae12c15e03e329e6048e25dd871751bc18f380b"
 metafile = true
 
 [[files]]
@@ -321,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "90d3195da54148fbdc6fb0e5ee3a527f698e29167acdb528e48410a5bbd462d0"
+hash = "f59c3bb83cec63f669a46663f190d7709e67590628573e9d455db2163068437f"
 metafile = true
 
 [[files]]
@@ -356,17 +360,17 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "ef64b5ce621de05f79ea518bc6de198f420b0c925c012c0864611cb162019c47"
+hash = "6ad3a07f305436daf07308665c39afa809d89c7c2f7ca4f2cc73160d51553b37"
 metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "fe602ab0b6adc84ba2574f8971340e5dc4a28a803c381d797efff336d990c18d"
+hash = "283b500122554b71dbdbf33033580c41f60b5d52b5eee911b98fb6fc634431db"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
 metafile = true
 
 [[files]]
@@ -376,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/poketwo.pw.toml"
-hash = "a5dcfa0396e699a5300ebfdb86916e3092936c7b7d9b67dfe4579801b78f3f1e"
+hash = "cbe64e67a7947db8c37387986c3bae6e2502bcfe938f5adb719d12be9759894e"
 metafile = true
 
 [[files]]
@@ -391,12 +395,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "40994b4eb4de73d35f356db032536e498a6f035b066f2d83d10a101684c788ae"
+hash = "6270bdb2704885d1bbf5d60273c638bb6ba0e252aed3e71669640d9467c52925"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+hash = "b75e08bb2f806d7daf197b3e704b0dedbce5806c261cc7627d9f9866550430c7"
 metafile = true
 
 [[files]]
@@ -436,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "a8ef32c5f14e7f27d3a7edcd2ea7bbe86ec0c52a86c8a7ffa0a3f5c9e17e64a4"
+hash = "01a7fe3f48f065aaa962856c2b922ae43b57f96f55532b10b961e4613e3b2aa0"
 metafile = true
 
 [[files]]
@@ -461,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "5f3061b133dde56006f8c9af3ab7d48b44f31ffef8ed8225dcd5a02c34cc9bd5"
+hash = "ad979b69be4c03de4a84df7f39fa25d94f25496052f7c2e7f64f12ebcc234f0a"
 metafile = true
 
 [[files]]
@@ -471,17 +475,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bb624f59fa32ce41654df7534756cf856d77540981754568b81712440d696e55"
+hash = "3ed73f48b17fcc465ee35865e5144f5b892d2a4d23114d9e14c615cd051b9e4d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "387895f19cc7f3e256afa22c9354120c1c3695846356caf72651229cfefeab5a"
+hash = "fe5a262b50ac127a70156c86a76bc1146ec4754770b2e19ec253b80798ea2f8c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/A_ATM x MSD [3.4.0].zip"
-hash = "bd02042178bc2ac37d32b3317b28a8c4d4cf542693ad4148596ceae05adfc66c"
+file = "resourcepacks/A_ATM x MSD [3.6.0].zip"
+hash = "9298d0ae087f0041479f55d7d0870e31334174e994bd0cfc39c1090fb4115ec3"
 
 [[files]]
 file = "resourcepacks/Animon Voices (Ambience).zip"
@@ -540,8 +544,8 @@ file = "resourcepacks/D_Vivillon Pride Patterns [1.0].zip"
 hash = "bc9576e55b02d4e15c5bb99b9b57f5f85cc2129d2d0dce890b7ea076d03a8bcb"
 
 [[files]]
-file = "resourcepacks/E_CobblemonMoreCosmetics [1.1.5].zip"
-hash = "495821d1bc68d62e453c1539f0b0d236c8e0c07cc57c9e7f86bfabe62959aaa1"
+file = "resourcepacks/E_CobblemonMoreCosmetics [1.1.6].zip"
+hash = "31cd19e43069fa95ac2b9864163a77fe793f8c20ccb3b82bed26c995f0510756"
 
 [[files]]
 file = "resourcepacks/Flan's Cobblemon Extension.zip"
