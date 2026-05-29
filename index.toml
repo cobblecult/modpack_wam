@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "dcff4edff3f1640641f9a5f17d17d1328565f9088e97f03773aa6bf8c54a8eb0"
+hash = "82cbfd5cf3bcf0bec02ae7ec5b182981561aa566df61683358e5612dae083fdb"
 metafile = true
 
 [[files]]
@@ -520,16 +520,8 @@ file = "resourcepacks/CobbleMotion_v1.4.1.zip"
 hash = "3dddc2257ea64e16daaee9102196eb93cc6e3df44ce58cca9ef5ddff5a372ecd"
 
 [[files]]
-file = "resourcepacks/Consistent Training Items Resource Pack.zip"
-hash = "859b27240a186a6eb66da043a21b7143c9b088952d453cc795077f27a33e5db6"
-
-[[files]]
 file = "resourcepacks/D_Carbink Gemstone Variations [1.0].zip"
 hash = "f92f1a54aaea2033557896845e72178ddf9092666b2e16c676ff088de3923e87"
-
-[[files]]
-file = "resourcepacks/D_Dyable Mareep [1.0].zip"
-hash = "89235946992a2d46b4fbcc788c22d7269fb6d5ecd889c966fdfc5eafe1d5b5bb"
 
 [[files]]
 file = "resourcepacks/D_Flower Expansion [4.2.1].zip"
@@ -546,14 +538,6 @@ hash = "bc9576e55b02d4e15c5bb99b9b57f5f85cc2129d2d0dce890b7ea076d03a8bcb"
 [[files]]
 file = "resourcepacks/E_CobblemonMoreCosmetics [1.1.6].zip"
 hash = "31cd19e43069fa95ac2b9864163a77fe793f8c20ccb3b82bed26c995f0510756"
-
-[[files]]
-file = "resourcepacks/Flan's Cobblemon Extension.zip"
-hash = "5c17e49eef9789aa39b90f563119ee5484d87ec2ff357bce01bf72fccd4d0c4d"
-
-[[files]]
-file = "resourcepacks/My Minimal Armor 1.21 - 1.21.1 v1.4.zip"
-hash = "357c7f44ebcb862f5d8a11e9026106ba410fadfc146909a00d049dbfd88249cd"
 
 [[files]]
 file = "resourcepacks/Saicha's Shinies.zip"
